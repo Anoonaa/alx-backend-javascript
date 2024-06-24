@@ -14,4 +14,8 @@ function taskNext() {
   return combination;
 }
 
-module.exports = { taskFirst, getLast, taskNext };
+module.exports = { 
+	taskFirst, getLast, taskNext 
+};
+
+
