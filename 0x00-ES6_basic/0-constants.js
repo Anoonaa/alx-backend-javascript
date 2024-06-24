@@ -15,7 +15,6 @@ function taskNext() {
 }
 
 module.exports = { 
-	taskFirst, getLast, taskNext 
-};
+	taskFirst, getLast, taskNext };
 
 
